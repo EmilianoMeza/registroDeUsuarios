@@ -1,0 +1,1 @@
+CREATE TABLE proyecto.newlatter(id_leader int auto_increment not null primary key, email varchar(50) not null)engine= INNODB;
